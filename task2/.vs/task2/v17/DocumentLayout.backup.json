@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\navbar\\navbar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -78,23 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "product.component.ts",
-              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.ts",
-              "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.ts",
-              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.ts",
-              "RelativeToolTip": "task2.client\\src\\app\\product\\product.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:55:35.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "category.component.html",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\category\\category.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.html",
@@ -106,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "category.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\category\\category.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.ts",
@@ -114,11 +102,12 @@
               "RelativeToolTip": "task2.client\\src\\app\\category\\category.component.ts",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:30:19.92Z"
+              "WhenOpened": "2025-03-13T16:30:19.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app.module.ts",
@@ -130,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "app.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app.component.ts",
@@ -138,12 +127,11 @@
               "RelativeToolTip": "task2.client\\src\\app\\app.component.ts",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:22:31.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:22:31.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app.component.html",
@@ -155,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "products-details.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\products-details\\products-details.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\products-details\\products-details.component.ts",
@@ -167,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app-routing.module.ts",
@@ -179,7 +167,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myservice.service.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\service\\myservice.service.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\service\\myservice.service.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T16:25:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "product.component.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.ts",
+              "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.ts",
+              "RelativeToolTip": "task2.client\\src\\app\\product\\product.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T16:55:35.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "product.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.spec.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.spec.ts",
@@ -188,18 +201,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-15T22:04:05.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "myservice.service.ts",
-              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts",
-              "RelativeDocumentMoniker": "task2.client\\src\\app\\service\\myservice.service.ts",
-              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts",
-              "RelativeToolTip": "task2.client\\src\\app\\service\\myservice.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:25:42.714Z"
             },
             {
               "$type": "Document",
@@ -227,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "product.component.css",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.css",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.css",

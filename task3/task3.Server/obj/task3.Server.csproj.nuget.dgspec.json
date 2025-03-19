@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\task3\\task3.Server\\task3.Server.csproj": {}
+    "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task3\\task3.Server\\task3.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\task3\\task3.Server\\task3.Server.csproj": {
+    "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task3\\task3.Server\\task3.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\task3\\task3.Server\\task3.Server.csproj",
+        "projectUniqueName": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task3\\task3.Server\\task3.Server.csproj",
         "projectName": "task3.Server",
-        "projectPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\task3\\task3.Server\\task3.Server.csproj",
+        "projectPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task3\\task3.Server\\task3.Server.csproj",
         "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\task3\\task3.Server\\obj\\",
+        "outputPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task3\\task3.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

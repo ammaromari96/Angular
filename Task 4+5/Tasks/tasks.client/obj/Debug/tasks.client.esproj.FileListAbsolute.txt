@@ -1,0 +1,3 @@
+C:\Users\Orange\Desktop\ASP.NET Core MVC1\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular1\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
+C:\Users\ammar\OneDrive\Desktop\Angular\Task 4+5\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
