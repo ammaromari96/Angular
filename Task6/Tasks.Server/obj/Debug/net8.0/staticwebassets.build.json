@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "sdqvvIoLq2Bui7khcwxvKVAGt/4s4EqXueVt5OnsC0c=",
+  "Source": "Tasks.Server",
+  "BasePath": "_content/Tasks.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (4)\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\tasks.client.esproj",
+      "Version": 2,
+      "Source": "tasks.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
