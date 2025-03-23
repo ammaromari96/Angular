@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:62641",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\AngularApp5.Server\\..\\angularapp5.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

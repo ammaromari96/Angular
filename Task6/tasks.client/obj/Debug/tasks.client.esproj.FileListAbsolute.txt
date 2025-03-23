@@ -2,3 +2,4 @@ C:\Users\Orange\Desktop\ASP.NET Core MVC1\Tasks\tasks.client\obj\Debug\tasks.cli
 C:\Users\Orange\Desktop\Angular1\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
 C:\Users\mac\Desktop\Angular-main-2\Task 5\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
 C:\Users\ammar\OneDrive\Desktop\New folder (4)\Angular\Task6\Task 5\Tasks\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache
+C:\Users\ammar\OneDrive\Desktop\Angular\Task6\tasks.client\obj\Debug\tasks.client.esproj.CoreCompileInputs.cache

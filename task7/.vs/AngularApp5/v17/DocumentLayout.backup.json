@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\service\\myservice.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\vouchers\\vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\new folder (8)\\angularapp5\\angularapp5.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BF60569-B8DA-467B-9190-25032969444F}|angularapp5.client\\angularapp5.client.esproj|solutionrelative:angularapp5.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editvoucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:08:12.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "editvoucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\editvoucher\\editvoucher.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:01:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:54:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:50:59.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vouchers.component.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\vouchers\\vouchers.component.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.html",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\vouchers\\vouchers.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T13:24:38.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myservice.service.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\service\\myservice.service.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\service\\myservice.service.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\service\\myservice.service.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\service\\myservice.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:17:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T13:12:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:15:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vouchers.component.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\vouchers\\vouchers.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:19:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "add-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\add-voucher\\add-voucher.component.ts",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:26:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T13:16:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "angularapp5.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T13:16:23.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp5.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (8)\\AngularApp5\\angularapp5.client\\src\\index.html",
+              "RelativeToolTip": "angularapp5.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T13:12:41.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

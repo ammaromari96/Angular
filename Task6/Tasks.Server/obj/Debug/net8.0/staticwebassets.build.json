@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "sdqvvIoLq2Bui7khcwxvKVAGt/4s4EqXueVt5OnsC0c=",
+  "Hash": "tL9Zs3+VlDZl1gLLUaJRvKWXQQAOdE/YHVDzfnc7+iU=",
   "Source": "Tasks.Server",
   "BasePath": "_content/Tasks.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (4)\\Angular\\Task6\\Task 5\\Tasks\\tasks.client\\tasks.client.esproj",
+      "Identity": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\Task6\\tasks.client\\tasks.client.esproj",
       "Version": 2,
       "Source": "tasks.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

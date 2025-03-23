@@ -18,11 +18,14 @@ export class RegistrationComponent {
 
   postDataUser(data: any) {
     this._myser.postRegistrationUser(data).subscribe(() => {
-
-    })
+      alert('Registered successfully!');
+    }, error => {
+      alert('Registration failed. Please try again.');
+    });
+  }
 
    
 
   }
 
-}
+

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF84BD63-0DA4-4C9F-9AD4-3D18CE9858F9}|task2.client\\task2.client.esproj|c:\\users\\ammar\\onedrive\\desktop\\angular\\task2\\task2.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "category.component.html",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\category\\category.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.html",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "category.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\category\\category.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.ts",
@@ -103,8 +103,7 @@
               "RelativeToolTip": "task2.client\\src\\app\\category\\category.component.ts",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:30:19.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:30:19.92Z"
             },
             {
               "$type": "Document",
@@ -120,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "products-details.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\products-details\\products-details.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\products-details\\products-details.component.ts",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "task2.client\\src\\app\\products-details\\products-details.component.ts",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T17:39:03.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:39:03.043Z"
             },
             {
               "$type": "Document",
@@ -145,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "myservice.service.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\service\\myservice.service.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\service\\myservice.service.ts",
@@ -153,12 +151,11 @@
               "RelativeToolTip": "task2.client\\src\\app\\service\\myservice.service.ts",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:25:42.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:25:42.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "product.component.ts",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.ts",
@@ -166,12 +163,11 @@
               "RelativeToolTip": "task2.client\\src\\app\\product\\product.component.ts",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:55:35.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:55:35.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "product.component.html",
               "DocumentMoniker": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\task2\\task2.client\\src\\app\\product\\product.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product\\product.component.html",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "task2.client\\src\\app\\product\\product.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T16:24:44.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:24:44.611Z"
             },
             {
               "$type": "Document",

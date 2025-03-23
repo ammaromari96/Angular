@@ -484,11 +484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (4)\\Angular\\Task6\\Task 5\\Tasks\\Tasks.Server\\Tasks.Server.csproj",
+      "projectUniqueName": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\Task6\\Tasks.Server\\Tasks.Server.csproj",
       "projectName": "Tasks.Server",
-      "projectPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (4)\\Angular\\Task6\\Task 5\\Tasks\\Tasks.Server\\Tasks.Server.csproj",
+      "projectPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\Task6\\Tasks.Server\\Tasks.Server.csproj",
       "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\New folder (4)\\Angular\\Task6\\Task 5\\Tasks\\Tasks.Server\\obj\\",
+      "outputPath": "C:\\Users\\ammar\\OneDrive\\Desktop\\Angular\\Task6\\Tasks.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
